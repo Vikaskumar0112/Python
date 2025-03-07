@@ -1,0 +1,9 @@
+n=int(input("Enter your number:"))
+i=1
+fact=1
+sum_fact=0
+while(i<=n):
+    fact=fact*i
+    sum_fact=sum_fact+fact
+    i+=1
+print("fect=",sum_fact)
