@@ -3,7 +3,7 @@
 # i=1
 # add_natural_number=0
 # while(i<=n):
-#     add_natural_number=add_natural_number+i
+#     add_natural_number=add_natural_numbern+i
 #     i+=1
 # print("addition=",add_natural_number)
 #wap to add first 10 natural number
